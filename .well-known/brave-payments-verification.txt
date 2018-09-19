@@ -1,4 +1,4 @@
 This is a Brave Payments publisher verification file.
 
-Domain: sleepy-bohr-e5cd09.netlify.com
+Domain: criptovariedades.com
 Token: aea750d4da843b233fb4a11b7b2ac7dd3dbd10119c41e95371bd1d5dbf1068cb
